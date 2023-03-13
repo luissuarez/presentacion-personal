@@ -1,2 +1,9 @@
 # Luis Adrián Suarez
-![Este soy yo](./imagenes/yo.jpg)
+
+## Foto
+![yo](./imagenes/yo.jpg "Este soy yo")
+
+## Acerca de mí
+Soy estudiante de la [UNPAZ](www.unpaz.edu.ar)
+
+### Otros datos:
