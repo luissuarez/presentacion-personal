@@ -6,7 +6,7 @@
 ## **Acerca de mí**
 
 * Soy estudiante de la Licenciatura en gestión de tecnologías de la información en la Universidad [UNPAZ](https://www.unpaz.edu.ar)
-* Soltero
+* Soy soltero
 
 * Tengo 41 años
 
@@ -16,7 +16,7 @@
 
 * Hacer algún deporte
 
-* Mirar Peliculas 
+* Mirar Películas 
 
 * Escuchar Música 
 
