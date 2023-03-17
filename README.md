@@ -14,7 +14,7 @@
 
 ## **Mi lista de cosas favoritas**
 
-* Hacer algun deporte
+* Hacer algún deporte
 
 * Mirar Peliculas 
 
