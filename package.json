@@ -1,0 +1,23 @@
+{
+  "name": "presentacion-personal",
+  "version": "1.0.0",
+  "description": "![yo](./imagenes/als.jpg \"Este soy yo\")",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luissuarez/presentacion-personal.git"
+  },
+  "author": "Luis Adrián Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luissuarez/presentacion-personal/issues"
+  },
+  "homepage": "https://github.com/luissuarez/presentacion-personal#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
